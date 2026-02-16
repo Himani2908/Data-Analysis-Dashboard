@@ -12,8 +12,9 @@ Store wants to create an annual sales report for 2022. So that, Store can unders
 -	Relation between age and gender based on number of orders
 -	Which channel is contributing to maximum sales?
 -	Highest selling category?
+
   
-- Dashboard Interaction <a herf="https://github.com/Himani2908/Data-Analysis-Dashboard/blob/main/SS%20of%20Dashbaord.PNG">Dashboard view</a>
+- Dashboard Interaction <a href="https://github.com/Himani2908/Data-Analysis-Dashboard/blob/main/SS%20of%20Dashbaord.PNG">Dashboard view</a>
 
 ## Project Process:
 •	Cleaned and prepared the raw sales data by removing duplicates, handling missing values, and correcting data types.
