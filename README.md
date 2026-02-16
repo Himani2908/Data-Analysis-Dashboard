@@ -23,3 +23,4 @@ Store wants to create an annual sales report for 2022. So that, Store can unders
 •	Designed an interactive dashboard using Pivot Charts, KPIs, and Slicers to generate business insights.
 
 ## Dashboard
+<img width="1321" height="515" alt="SS of Dashbaord" src="https://github.com/user-attachments/assets/837d834c-c152-4771-9172-246b1f5d2c0f" />
