@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I Developed an interactive annual sales report for Store using Microsoft Excel. Performed data cleaning and transformation, created Pivot Tables and Charts, and designed a dynamic dashboard using slicers and KPIs.
+#Store Data Analysis (Interactive Dashboard creation using MS Excel)
+##Project Objective
+Store wants to create an annual sales report for 2022. So that, Store can understand their customers and grow more sales in 2023.
+
