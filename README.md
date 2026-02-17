@@ -24,3 +24,13 @@ Store wants to create an annual sales report for 2022. So that, Store can unders
 
 ## Dashboard
 <img width="1321" height="515" alt="SS of Dashbaord" src="https://github.com/user-attachments/assets/837d834c-c152-4771-9172-246b1f5d2c0f" />
+
+## Project Insights
+•	Women contribute significantly more to overall sales compared to men (~65%).
+•	Maharashtra, Karnataka, and Uttar Pradesh are the top three revenue-generating states.
+•	The adult age group (30–49 years) is the highest contributing segment (~50% of total sales).
+•	Amazon, Flipkart, and Myntra are the leading sales channels driving maximum revenue.
+
+## Business Recommendation
+To improve Store sales performance, the company should focus on targeting women customers aged 30–49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. Marketing efforts such as personalized ads, promotional offers, and discount coupons should be strategically promoted through high-performing platforms like Amazon, Flipkart, and Myntra.
+
