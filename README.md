@@ -16,11 +16,11 @@ Store wants to create an annual sales report for 2022. So that, Store can unders
   
 - Dashboard Interaction <a href="https://github.com/Himani2908/Data-Analysis-Dashboard/blob/main/SS%20of%20Dashbaord.PNG">Dashboard view</a>
 
-## Project Process:
-•	Cleaned and prepared the raw sales data by removing duplicates, handling missing values, and correcting data types.
-•	Created additional columns such as Month and Age Group for better analysis.
-•	Built Pivot Tables to analyze sales by month, gender, age group, state, and channel.
-•	Designed an interactive dashboard using Pivot Charts, KPIs, and Slicers to generate business insights.
+## Project Process
+-	Cleaned and prepared the raw sales data by removing duplicates, handling missing values, and correcting data types.
+-	Created additional columns such as Month and Age Group for better analysis.
+-	Built Pivot Tables to analyze sales by month, gender, age group, state, and channel.
+-	Designed an interactive dashboard using Pivot Charts, KPIs, and Slicers to generate business insights.
 
 ## Dashboard
 <img width="1321" height="515" alt="SS of Dashbaord" src="https://github.com/user-attachments/assets/837d834c-c152-4771-9172-246b1f5d2c0f" />
